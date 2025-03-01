@@ -24,4 +24,4 @@ const useGetOtherUsers = () => {
 
 }
 
-export default useGetOtherUsers
+export default useGetOtherUsers;
