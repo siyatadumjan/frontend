@@ -24,4 +24,4 @@ const OtherUsers = () => {
     )
 }
 
-export default OtherUsers
+export default OtherUsers;
