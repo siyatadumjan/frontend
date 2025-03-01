@@ -21,4 +21,3 @@ const useGetMessages = () => {
     }, [selectedUser?._id,setMessages]);
 }
 
-export default useGetMessages
